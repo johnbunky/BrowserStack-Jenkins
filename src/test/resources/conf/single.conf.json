@@ -1,0 +1,17 @@
+{
+	"server": "hub-cloud.browserstack.com",
+	"user": "john3182",
+	"key": "Yh2Fp36SdRPapqpZwWZg",
+
+	"capabilities": {
+		"project": "Example",
+		"build": "Java Selenide Single Browserstack-Jenkins",
+		"browserstack.debug": true
+	},
+
+	"environments": {
+		"chrome": {
+			"browser": "chrome"
+		}
+	}
+}

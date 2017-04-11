@@ -1,0 +1,34 @@
+{
+	"server": "hub-cloud.browserstack.com",
+	"user": "john3182",
+	"key": "Yh2Fp36SdRPapqpZwWZg",
+
+	"capabilities": {
+		"project": "Example",
+		"build": "Java Selenide Parallel ",
+		"browserstack.debug": true
+	},
+
+	"environments": {
+		"IE": {
+			"os": "Windows",
+			"os_version": "7",
+			"browser": "IE",
+			"browser_version": "11.0",
+			"resolution": "1024x768"
+		},
+		"firefox": {
+			"os": "Windows",
+			"os_version": "10",
+			"browser": "Firefox",
+			"browser_version": "53.0 beta",
+			"resolution": "1440x900"
+		},
+		"safari": {
+			"os": "OS X",
+			"os_version": "El Capitan",
+			"browser": "Safari",
+			"browser_version": "9.1",
+			"resolution": "1280x960"		}
+	}
+}
