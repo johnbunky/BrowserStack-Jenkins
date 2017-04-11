@@ -17,7 +17,6 @@ hs_err_pid*
 *.iml
 *.ipr
 *.iws
-/target/
 
 .DS_Store
 local.log
@@ -26,3 +25,5 @@ local.log
 sute.testng.xml
 parallel.testng.xml
 local.testng.xml
+local.conf.json
+parallel.conf.json
