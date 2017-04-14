@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <testsuite name="com.browserstack.SingleTest">
 <testcase class="SingleTest" classname="com.browserstack.SingleTest" id="com.browserstack.SingleTest.test{0}" index="0" name="test" package="com.browserstack">
-<session>1a3a6bb052f52c26ce19c8bd08a91bfe0b2d7f90</session>
+<session>3d672ed3ef1dfae694b7f69b4922f95f29725260</session>
 </testcase>
 </testsuite>
